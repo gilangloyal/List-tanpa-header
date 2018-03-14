@@ -1,7 +1,4 @@
-/**
-  Gus Nando
-  07/03/2018
- */
+
 import React from 'react';
 import {
   AppRegistry,
@@ -31,4 +28,4 @@ const styles = StyleSheet.create({
   }
 })
 
-AppRegistry.registerComponent('GusNando', () => App);
+AppRegistry.registerComponent('Latihan', () => App);
